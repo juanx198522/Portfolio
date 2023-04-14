@@ -170,7 +170,7 @@ a {
     font-size: 15px;
 }
 
-button:hover {
+#link-page:hover {
     border: solid yellow;
     display: inline;
 }

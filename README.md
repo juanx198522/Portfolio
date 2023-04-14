@@ -20,4 +20,4 @@ N/A
 Please refer to the LICENSE in the repo.
 
 ## Link to deployed application 
-[https://juanx198522.github.io/01-challenge/](https://juanx198522.github.io/01-challenge/)
+[https://juanx198522.github.io/02-challenge/](https://juanx198522.github.io/02-challenge/)
